@@ -1,1 +1,22 @@
-h1 {background-color:aqua;}
+body{
+    background-color: antiquewhite;
+}
+
+.nav_01{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    gap: 50px;
+    padding: 50px;
+    background-image: url(../images/Hero-bg.png);
+}
+.title{
+    background-color: aqua;
+    color: black;
+    font-size: 50px;
+}
+.sign1{
+    width: 70px;
+    height: 50px;
+}
